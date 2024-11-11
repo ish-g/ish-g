@@ -1,5 +1,5 @@
 # 💫 About Me:
-Professionally Data Engineer | AI Explorer | Passionate Data Scientist | Transforming Challenges into Solutions
+Professional Data Engineer | AI Explorer | Passionate Data Scientist | Transforming Challenges into Solutions
 - 🌱 I’m currently learning Deep Learning, Natural Language Processing, Generative AI and AZURE 
 - ⚡ Looking to collaborate on data engineering, advanced data processing and AI projects  
 
