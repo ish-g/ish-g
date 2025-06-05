@@ -1,7 +1,7 @@
 # 💫 About Me:
 Professional Data Engineer | AI Explorer | Passionate Data Scientist | Transforming Challenges into Solutions
-- 🌱 I’m currently learning Deep Learning, Natural Language Processing, Generative AI and AZURE 
-- ⚡ Looking to collaborate on data engineering, advanced data processing and AI projects  
+- 🌱 I’m currently working on project which includes AZURE cloud services, Natural Language Processing, Machine Learning to transform the data.
+- ⚡ Looking to collaborate on data engineering, advanced data processing and AI projects, Generative AI and Machine Learning and Deep Learning.
 
 
 ## 🌐 Socials:
